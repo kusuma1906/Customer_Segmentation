@@ -25,3 +25,14 @@ Attributes Information:
 ●	Frequency of Purchases - Frequency at which the customer makes purchases (e.g., Weekly, Fortnightly, Monthly)
 
 The main aim of this project is to cluster the customers based on their trends and write an analysis report. 
+
+
+
+To view the dahboard in Tableau Public click on the below link
+
+https://public.tableau.com/views/CustomerSegmentation_17137852533340/Home?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
+
+
+
+
